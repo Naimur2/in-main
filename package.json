@@ -1,0 +1,24 @@
+{
+  "name": "in-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tw": "tailwindcss -i ./input/input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naimur2/in-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naimur2/in-main/issues"
+  },
+  "homepage": "https://github.com/Naimur2/in-main#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}

@@ -811,3 +811,14 @@ footer .ffb-icon {
 .w-full {
     width: 100%;
 }
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stake-holder-data-button {
+    width: 100%;
+}
