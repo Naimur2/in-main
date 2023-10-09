@@ -592,7 +592,6 @@ button {
 .sparks .discription {
     display: flex;
     column-gap: 114px;
-    width: 795px;
     background-color: white;
     padding: 32px;
     border-radius: 12px;
@@ -602,7 +601,6 @@ button {
 }
 .sparks .discription2 {
     position: absolute;
-    width: 795px;
     column-gap: 114px;
     display: flex;
     top: 0;
